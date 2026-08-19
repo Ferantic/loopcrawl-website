@@ -1,0 +1,8 @@
+{
+  "name": "SimpleSEO - Actionable Website Audit & Prioritized Tasks",
+  "description": "SEO made simple for small businesses, freelancers, and solo founders with instant 60-second health checks, plain-English prioritized checklists, and AI search readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
